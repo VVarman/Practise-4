@@ -1,10 +1,13 @@
 /* GENERAL STYLES*/
+.body {
+    margin: 0;
+}
 body {
     font-family: Arial, sans-serif;
     font-size: 100%;
 }
 ul {
-    margin: 0 auto;
+    margin: 0;
     padding: 0;
 }
 ul li{
